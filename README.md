@@ -9,7 +9,7 @@ This is my first Retrieval Augmented Generation system that i made using LLM and
 
 # How to Get Started
 
-pip install langchain
+pip install langchain n/
 pip install langchain_community
 pip install tiktoken
 pip install pypdf
